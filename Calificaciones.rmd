@@ -7,22 +7,22 @@ output: html_document
 
 *1 Semestre
 
-*Matem??ticas B??sicas                   6
-*Problemas de Matem??ticas B??sicas      6
-*Programaci??n Actuarial I              8
-*Introducci??n Actuarial                7
+*Matematicas Basicas                   6
+*Problemas de Matematicas B??sicas      6
+*Programacion Actuarial I              8
+*Introduccion Actuarial                7
 *DHPC                                  9
-*Introduccion
+*Conceptos de Calculo                  8
 
 *2 Semestre 
 
 *Teoria de Ecuaciones                  8 
 *Teor??a del Interes I                  9
-*Geometr??a Ana????tica                   9
-*Micro Econom??a                        8
+*Geometr??a Analitica                   9
+*Micro Economia                        8
 
 *3 Semestre
-*C??lculo Diferencial                   9
+*Calculo Diferencial                   9
 *Algebra Lineal                        9
 *Formaci??n Humana                      9
 *Teor??a del Interes                    9
@@ -30,7 +30,7 @@ output: html_document
 
 *4 Semestre
 
-*C??lculo Integral                      8
+*Calculo Integral                      8
 *Demografia                            9
 *DHTICS                                10
 *Programaci??n II                       7
