@@ -5,7 +5,7 @@ date: "29 de agosto de 2016"
 output: html_document
 ---
 
-*1?? Semestre
+*1 Semestre
 
 *Matem??ticas B??sicas                   6
 *Problemas de Matem??ticas B??sicas      6
@@ -14,21 +14,21 @@ output: html_document
 *DHPC                                  9
 *Introduccion
 
-*2?? Semestre 
+*2 Semestre 
 
 *Teoria de Ecuaciones                  8 
 *Teor??a del Interes I                  9
 *Geometr??a Ana????tica                   9
 *Micro Econom??a                        8
 
-*3?? Semestre
+*3 Semestre
 *C??lculo Diferencial                   9
 *Algebra Lineal                        9
 *Formaci??n Humana                      9
 *Teor??a del Interes                    9
 *Macroeconomia                         8
 
-*4?? Semestre
+*4 Semestre
 
 *C??lculo Integral                      8
 *Demografia                            9
