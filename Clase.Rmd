@@ -168,4 +168,33 @@ getwd
 setwd("~/Desktop/Programacion III/Programacion_Actuaria_lII_-OT16")
 data <- read.csv("Table.csv")
 data <- read.table("Table.csv", T, ",")
+#clase 3 septiembre
+args(read.table)
+#leer 100 filas
+data<- read.table("Table.csv",T, "", nrows=100)
+classes <- sapply(data,class)
+
+
+view
 data
+
+#USO DE dput y dget
+y<- data.frame(a=1,b= "a")
+dput(y)
+dput(y,file= "y.R")
+
+nueva.y<-dget("y.R")
+y
+nueva.y
+
+x<- "Programaci??n Actuarial III"
+y<- data.frame(a=1,b= "a")
+dump(c("x","y"),file= "data.R")
+rm(x,y)
+source("data.R")
+
+
+x<- head(airquality)
+dput(x, file= "airq.R")
+x
+
