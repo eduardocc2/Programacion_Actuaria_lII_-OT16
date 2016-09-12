@@ -1,0 +1,29 @@
+
+arriba<- 0
+abajo<- 0
+for (i in 1:100)
+{
+z <- 5 
+
+
+while(z>=3 && z<=10){
+  
+    moneda <- rbinom(1,1,0.5)
+    if (moneda==1){ 
+      z<- z + 1
+    } else {
+      z<- z - 1
+    }
+}
+if(z<10){abajo<-(abajo+1)}else {arriba<- (arriba+1)}
+}
+
+arriba 
+abajo
+
+
+
+
+
+
+
